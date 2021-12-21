@@ -30,7 +30,7 @@ class ExampleRequest extends FormRequest
             'country_alpha2' => [
                 'required',
                 'string',
-                'size:3',
+                'size:2',
                 new IsValidCountryCodeAlpha2(),
             ],
             'country_alpha3' => [
