@@ -8,7 +8,7 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/360a121af1eb2d018cbb/test_coverage)](https://codeclimate.com/github/brokeyourbike/country-validation-laravel/test_coverage)
 [![tests](https://github.com/brokeyourbike/country-validation-laravel/actions/workflows/tests.yml/badge.svg)](https://github.com/brokeyourbike/country-validation-laravel/actions/workflows/tests.yml)
 
-Validation rules for Money and Currency
+Laravel country validation rules
 
 ## Installation
 
