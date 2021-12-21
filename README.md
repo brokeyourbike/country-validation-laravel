@@ -21,6 +21,7 @@ composer require brokeyourbike/country-validation-laravel
 ```php
 use Illuminate\Foundation\Http\FormRequest;
 use BrokeYourBike\CountryValidation\IsValidCountryCodeAlpha2;
+use BrokeYourBike\CountryValidation\IsValidCountryCodeAlpha3;
 
 class ExampleRequest extends FormRequest
 {
