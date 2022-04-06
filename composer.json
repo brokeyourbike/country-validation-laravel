@@ -23,7 +23,7 @@
     "minimum-stability": "stable",
     "require": {
         "php": "^8.0",
-        "illuminate/contracts": "^8",
+        "illuminate/contracts": "^8|^9",
         "league/iso3166": "^4.0"
     },
     "require-dev": {
