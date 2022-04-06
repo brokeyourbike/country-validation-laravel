@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.1](https://www.github.com/brokeyourbike/country-validation-laravel/compare/v0.1.0...v0.1.1) (2022-04-06)
+
+
+### Bug Fixes
+
+* allow to use with laravel 9 ([01e599a](https://www.github.com/brokeyourbike/country-validation-laravel/commit/01e599afcddf0e5d987165357e6a1676e6d3b100))
+
 ## 0.1.0 (2021-12-21)
 
 
