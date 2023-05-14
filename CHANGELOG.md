@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.1.2](https://www.github.com/brokeyourbike/country-validation-laravel/compare/v0.1.1...v0.1.2) (2023-05-14)
+
+
+### Miscellaneous Chores
+
+* allow bin ([7f75a1a](https://www.github.com/brokeyourbike/country-validation-laravel/commit/7f75a1ab1429beaf80deb60f0504f2a752fd3dac))
+* badges ([7fd1c20](https://www.github.com/brokeyourbike/country-validation-laravel/commit/7fd1c2021a3d0261c3f10f60dd0ebb32d6a9f70b))
+
 ### [0.1.1](https://www.github.com/brokeyourbike/country-validation-laravel/compare/v0.1.0...v0.1.1) (2022-04-06)
 
 
